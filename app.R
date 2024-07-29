@@ -1,6 +1,5 @@
 library(dplyr, quietly = TRUE)
 library(tidyr, quietly = TRUE)
-library(stringr, quietly = TRUE)
 library(ggplot2)
 
 np2014 <- read.csv("np2014_d1.csv")
